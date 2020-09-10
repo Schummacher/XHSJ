@@ -1,0 +1,93 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: xhsj
+  name: 小鹤四角
+  version: "0.24"
+  author:
+    - Schummacher
+  description: |
+    參考以下作品而創作：
+      * 小鹤音形 - 提供本方案的音码部分
+      * 四角号码 - 提供本方案的形码部分
+      * 星空键道 - 提供本方案的顶功灵感
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+ 
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcba1234567890"
+  auto_select: true
+  max_code_length: true
+
+translator:
+  dictionary: xhsj
+  enable_charset_filter: false
+  enable_completion: true
+  enable_encoder: true
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: true
+  max_phrase_length: 6
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    reverse_lookup: "`[a-z]*'?$"

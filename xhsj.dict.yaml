@@ -1,0 +1,14 @@
+---
+name: xhsj
+version: "Q1"
+sort: original
+import_tables:
+  - xhsj.dj
+  - xhsj.ow
+  - xhsj.jmma2
+  - xhsj.jmma3
+  - xhsj.jmma4
+  - xhsj.qrma2
+  - xhsj.qrma3
+  - xhsj.qrma4
+...
