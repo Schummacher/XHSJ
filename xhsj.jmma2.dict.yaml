@@ -801,9 +801,7 @@ sort: original
 本行	bfxg
 本行	bfxh
 本息	bfxi
-本行	bfxk
-本省	bfxk5
-本性	bfxk59
+本性	bfxk
 本想	bfxl
 本校	bfxn
 本页	bfye
@@ -1372,9 +1370,8 @@ sort: original
 变阵	bmvf
 辩证	bmvg
 边长	bmvh
-辨识	bmvi
-编织	bmvi2
-编制	bmvi22
+编织	bmvi
+编制	bmvi2
 贬值	bmvi7
 便装	bmvl
 编著	bmvo
@@ -2467,8 +2464,7 @@ sort: original
 惨叫	cjjn
 残旧	cjjq
 残局	cjju
-餐车	cjju2
-餐具	cjju27
+餐具	cjju2
 参加	cjjx
 参军	cjjy
 参考	cjkc
@@ -2854,8 +2850,6 @@ sort: original
 搭救	dajq
 答卷	dajr
 大局	daju
-搭车	daju5
-打车	daju54
 大家	dajx
 打架	dajx5
 大军	dajy
@@ -3321,8 +3315,6 @@ sort: original
 大院	ddyr
 大约	ddyt
 待遇	ddyu
-大于	ddyu4
-大雨	ddyu41
 带有	ddyz
 待在	ddzd
 大增	ddzg
@@ -3794,8 +3786,7 @@ sort: original
 蛋疼	djtg
 丹田	djtm
 弹跳	djtn
-单调	djtn8
-单挑	djtn85
+单挑	djtn8
 单腿	djtv
 弹头	djtz
 石头	djtz1
@@ -4725,15 +4716,12 @@ sort: original
 对头	dvtz
 追杀	dvua
 追上	dvuh
-对峙	dvui
-对视	dvui7
+对视	dvui
 对数	dvuu
 对谁	dvuv
 对谁	dvuw
 对手	dvuz
-追着	dvvc
-对照	dvvc7
-对着	dvvc78
+对照	dvvc
 追债	dvvd
 追着	dvve
 对着	dvve7
@@ -8236,8 +8224,7 @@ sort: original
 很强	hfjl
 很久	hfjq
 很卡	hfka
-很会	hfkk
-很快	hfkk2
+很快	hfkk
 很宽	hfkr
 很酷	hfku
 很困	hfky
@@ -11894,7 +11881,7 @@ sort: original
 经验	jkyj
 经营	jkyk
 精英	jkyk9
-警员	jkyr
+警员	jkyr4
 鲸鱼	jkyu
 靓仔	jkzd
 净增	jkzg
@@ -16825,8 +16812,7 @@ sort: original
 摸清	moqk
 万千	moqm
 抹去	moqu
-万人	morf
-默认	morf6
+默认	morf
 末日	mori
 蓦然	morj
 莫若	moro
@@ -30364,7 +30350,7 @@ sort: original
 一笔	yibi
 一般	yibj
 一并	yibk
-一遍	yibm
+一遍	yibm1
 仪表	yibn
 衣钵	yibo
 一别	yibp
@@ -32946,7 +32932,6 @@ sort: original
 一去	yiqu14
 一双	yiul1
 一发	yifa1
-一变	yibm1
 一叠	yidp
 一句	yiju12
 一只	yivi16
@@ -33382,7 +33367,7 @@ sort: original
 一轮	yily1
 一辈	yibw11
 一辙	yive14
-一边	yibm13
+一边	yibm
 一过	yigo13
 一近	yijb13
 一进	yijb13
@@ -48602,7 +48587,6 @@ sort: original
 冒被	mcbw
 冒被	mopi
 冒认	mcrf
-冒认	morf63
 冒贷	mcdd
 冒贷	modd6
 冒起	mcqi6
@@ -49357,7 +49341,6 @@ sort: original
 净赚	jkvr
 净赚	jkzr
 净身	jkuf3
-净重	jkis
 净重	jkvs3
 净院	jkyr3
 净面	jkmm3
@@ -94780,7 +94763,6 @@ sort: original
 敬赠	jkzg4
 敬身	jkuf42
 敬辞	jkci4
-敬重	jkis4
 敬重	jkvs4
 敬鉴	jkjm4
 敬陈	jkif47
@@ -97897,7 +97879,7 @@ sort: original
 晶体	jkti6
 晶光	jkgl69
 晶化	jkhx6
-晶圆	jkyr66
+晶圆	jkyr
 晶带	jkdd6
 晶形	jkxk61
 晶明	jkmk66
@@ -125799,7 +125781,7 @@ sort: original
 精肉	jkrz
 精舍	jkue9
 精芒	jkmh
-精虫	jkis9
+精虫	jkis
 精血	jkxp9
 精血	jkxt9
 精要	jkyc9
@@ -140302,7 +140284,6 @@ sort: original
 警械	jkxp44
 警用	jkys4
 警界	jkjp46
-警种	jkis42
 警种	jkvs42
 警笛	jkdi4
 警策	jkce
