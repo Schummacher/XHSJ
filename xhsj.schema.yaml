@@ -21,7 +21,7 @@ switches:
     states: [ 半角, 全角 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
- 
+
 engine:
   processors:
     - ascii_composer

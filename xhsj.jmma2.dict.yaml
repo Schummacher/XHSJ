@@ -1416,8 +1416,8 @@ sort: original
 表弟	bndi
 表单	bndj
 标点	bndm
-表哥	bnge
-表格	bnge5
+表哥	bnge5
+表格	bnge
 标杆	bngj
 表功	bngs
 表姑	bngu
@@ -3791,11 +3791,9 @@ sort: original
 石头	djtz1
 丹砂	djua
 单色	djud
-弹射	djue
 单身	djuf
 诞生	djug
-弹射	djui
-但是	djui2
+但是	djui
 单数	djuu
 淡水	djuv
 单手	djuz
@@ -3817,9 +3815,7 @@ sort: original
 弹压	djya
 淡雅	djya3
 弹药	djyc
-弹射	djye
 但也	djye2
-弹射	djyi
 单一	djyi8
 单眼	djyj
 但愿	djyr
@@ -4872,8 +4868,7 @@ sort: original
 陡然	dzrj
 抖擞	dzsz
 豆沙	dzua
-都市	dzui
-都是	dzui4
+都是	dzui
 都说	dzuo
 都说	dzut
 读书	dzuu
@@ -5599,8 +5594,7 @@ sort: original
 防身	fhuf
 放生	fhug
 放上	fhuh
-放射	fhui
-方式	fhui0
+方式	fhui
 防水	fhuv
 放手	fhuz
 防守	fhuz7
@@ -5672,8 +5666,8 @@ sort: original
 反讽	fjfg
 反方	fjfh
 翻番	fjfj
-反腐	fjfu
-反复	fjfu7
+反腐	fjfu7
+反复	fjfu
 翻飞	fjfw
 梵高	fjgc
 翻盖	fjgd
@@ -6457,7 +6451,7 @@ sort: original
 歌曲	gequ
 合群	geqy
 隔热	gere
-各人	gerf
+各人	gerf2
 割让	gerh
 隔日	geri
 割肉	gerz
@@ -10408,10 +10402,9 @@ sort: original
 常识	ihui9
 常说	ihuo
 常说	ihut
-常熟	ihuu
+常熟	ihuu9
 畅顺	ihuy
 长寿	ihuz
-常熟	ihuz9
 唱着	ihvc
 偿债	ihvd
 唱着	ihve
@@ -10885,7 +10878,7 @@ sort: original
 重启	isqi
 重庆	isqk
 重拳	isqr
-冲入	isru
+冲入	isru3
 充塞	issd
 充塞	isse
 重塑	issu
@@ -11441,7 +11434,7 @@ sort: original
 几百	jibd
 基本	jibf
 击毙	jibi
-羁绊	jibj
+羁绊	jibj6
 疾病	jibk
 几遍	jibm
 级别	jibp
@@ -11510,7 +11503,7 @@ sort: original
 稽查	jiia
 讥嘲	jiic
 击沉	jiif
-继承	jiig
+继承	jiig2
 机场	jiih
 鸡翅	jiii
 机床	jiil
@@ -12478,8 +12471,8 @@ sort: original
 解渴	jpke
 借款	jpkr
 解困	jpky
-借口	jpkz
-接口	jpkz5
+借口	jpkz2
+接口	jpkz
 借来	jpld
 借了	jple
 竭力	jpli
@@ -12562,7 +12555,7 @@ sort: original
 接着	jpve
 接诊	jpvf
 结账	jpvh
-截止	jpvi
+截止	jpvi4
 接站	jpvj
 结转	jpvr
 借重	jpvs
@@ -15812,8 +15805,8 @@ sort: original
 雷区	lwqu
 累人	lwrf
 羸弱	lwro
-累死	lwsi
-类似	lwsi9
+累死	lwsi6
+类似	lwsi
 勒索	lwso
 擂台	lwtd
 累瘫	lwtj
@@ -16845,8 +16838,7 @@ sort: original
 魔王	mowh
 末位	moww
 末尾	moww5
-万幸	moxk
-模型	moxk4
+模型	moxk
 冒险	moxm
 默写	moxp
 默契	moxp6
@@ -19145,8 +19137,7 @@ sort: original
 凄惨	qicj
 七寸	qicy
 祈祷	qidc
-亟待	qidd
-期待	qidd4
+期待	qidd
 启迪	qidi
 契丹	qidj
 起点	qidm
@@ -19193,7 +19184,7 @@ sort: original
 迄今	qijb
 奇迹	qiji
 契机	qiji5
-旗舰	qijm
+旗舰	qijm0
 期间	qijm4
 起脚	qijn
 气节	qijp
@@ -20581,7 +20572,7 @@ sort: original
 荣获	rsho
 融化	rshx
 冗长	rsih
-溶剂	rsji
+溶剂	rsji3
 溶解	rsjp
 绒裤	rsku
 荣立	rsli
@@ -22039,7 +22030,6 @@ sort: original
 弹射	tjue
 探身	tjuf
 摊上	tjuh
-弹射	tjui
 探视	tjui5
 坦率	tjuk
 探查	tjva
@@ -22064,8 +22054,6 @@ sort: original
 探寻	tjxy
 弹压	tjya
 弹药	tjyc
-弹射	tjye
-弹射	tjyi
 坦言	tjyj
 贪欲	tjyu
 探幽	tjyz
@@ -23337,8 +23325,8 @@ sort: original
 折尺	ueii5
 射出	ueiu
 射进	uejb
-涉及	ueji
-设计	ueji3
+涉及	ueji3
+设计	ueji
 射精	uejk
 射箭	uejm
 社交	uejn
@@ -23459,8 +23447,7 @@ sort: original
 深化	ufhx
 神话	ufhx3
 深厚	ufhz
-参差	ufia
-审查	ufia3
+审查	ufia
 参差	ufid
 深沉	ufif
 参差	ufii
@@ -24009,7 +23996,7 @@ sort: original
 使劲	uijk
 失敬	uijk2
 十强	uijl
-实践	uijm
+实践	uijm3
 时间	uijm6
 视角	uijn
 视觉	uijn3
@@ -24107,8 +24094,8 @@ sort: original
 师生	uiug
 嘘声	uiug6
 时尚	uiuh
-实施	uiui3
-试试	uiui33
+实施	uiui33
+试试	uiui3
 实说	uiuo
 实说	uiut
 失手	uiuz
@@ -24499,7 +24486,7 @@ sort: original
 树丛	uucs
 疏导	uudc
 输得	uude
-书店	uudm
+书店	uudm5
 输掉	uudn
 输得	uudw
 数额	uuee
@@ -25585,7 +25572,7 @@ sort: original
 蒸馏	vglq
 蒸笼	vgls
 争论	vgly
-正码	vgma
+正码	vgma1
 正门	vgmf
 证明	vgmk
 正面	vgmm
@@ -25799,15 +25786,15 @@ sort: original
 直播	vibo
 识别	vibp
 止步	vibu
-纸杯	vibw
+纸杯	vibw2
 制裁	vicd
 之策	vice
 至此	vici
 致辞	vici1
 致残	vicj
 直达	vida
-指导	vidc
-知道	vidc8
+指导	vidc5
+知道	vidc
 纸袋	vidd
 值得	vide
 质地	vidi
@@ -25954,8 +25941,7 @@ sort: original
 只剩	viug
 之上	viuh
 智商	viuh8
-直射	viui
-只是	viui6
+只是	viui
 知识	viui8
 直率	viuk
 直爽	viul
@@ -25983,7 +25969,7 @@ sort: original
 之外	viwd
 指纹	viwf
 质问	viwf7
-指望	viwh
+指望	viwh5
 职务	viwu
 植物	viwu4
 职位	viww
@@ -27182,8 +27168,8 @@ sort: original
 文弱	wfro
 温润	wfry
 温柔	wfrz
-文体	wfti
-问题	wfti3
+文体	wfti0
+问题	wfti
 文坛	wftj
 闻听	wftk
 稳妥	wfto
@@ -27565,8 +27551,8 @@ sort: original
 无愧	wukv
 武林	wulb
 无赖	wuld
-无理	wuli
-物理	wuli2
+无理	wuli1
+物理	wuli
 无量	wull
 无聊	wuln
 恶劣	wulp
@@ -28127,8 +28113,8 @@ sort: original
 溪水	xiuv
 洗刷	xiux
 吸吮	xiuy
-洗手	xiuz
-吸收	xiuz6
+洗手	xiuz3
+吸收	xiuz
 细查	xiva
 夕照	xivc
 细账	xivh
@@ -29889,8 +29875,7 @@ sort: original
 阴柔	ybrz
 银色	ybse
 阴森	ybsf
-饮食	ybsi
-隐私	ybsi7
+隐私	ybsi
 吟诵	ybss
 因素	ybsu
 阴损	ybsy
@@ -30987,8 +30972,8 @@ sort: original
 元老	yrlc
 院落	yrlc7
 原来	yrld
-远离	yrli
-原理	yrli7
+远离	yrli3
+原理	yrli
 圆领	yrlk
 原谅	yrll
 圆脸	yrlm
@@ -31049,7 +31034,7 @@ sort: original
 原值	yrvi
 原装	yrvl
 圆桌	yrvo
-援助	yrvu
+援助	yrvu5
 圆锥	yrvv
 圆周	yrvz
 员外	yrwd
@@ -31108,8 +31093,8 @@ sort: original
 用功	ysgs
 用好	yshc
 永恒	yshg
-拥护	yshu
-用户	yshu7
+拥护	yshu5
+用户	yshu
 用茶	ysia
 用车	ysie
 用场	ysih
@@ -33556,7 +33541,7 @@ sort: original
 七五	qiwu
 七人	qirf4
 七亿	qiyi42
-七代	qidd42
+七代	qidd4
 七位	qiww4
 七体	qiti4
 七余	qiyu4
@@ -33597,7 +33582,6 @@ sort: original
 七夕	qixi42
 七夜	qiye4
 七大	qida
-七大	qidd44
 七套	qitc4
 七始	qiui44
 七娘	qinl
@@ -33805,7 +33789,6 @@ sort: original
 万段	wjdr1
 万源	moyr13
 万源	wjyr13
-万点	modm
 万点	wjdm1
 万物	mowu
 万物	wjwu12
@@ -36289,7 +36272,7 @@ sort: original
 丧门	shmf4
 个个	gege88
 个中	gevs8
-个人	gerf8
+个人	gerf
 个位	geww8
 个例	geli82
 个儿	geer
@@ -37241,8 +37224,6 @@ sort: original
 么样	moyh2
 么波	mebo
 么波	mobo2
-么点	medm
-么点	modm2
 么爷	meye
 么爷	moye2
 么那	mena
@@ -39487,7 +39468,6 @@ sort: original
 五分	wuff1
 五刑	wuxk11
 五划	wuhx15
-五力	wuli1
 五功	wugs1
 五加	wujx1
 五匙	wuii1
@@ -40639,7 +40619,7 @@ sort: original
 介胄	jpvz
 介虫	jpis8
 介词	jpci8
-介质	jpvi8
+介质	jpvi
 介面	jpmm8
 介音	jpyb8
 仍不	rgbu
@@ -42551,7 +42531,7 @@ sort: original
 但从	djcs
 但他	djta2
 但你	djni2
-但使	djui22
+但使	djui2
 但其	djji2
 但其	djqi2
 但凭	djpk2
@@ -51578,7 +51558,7 @@ sort: original
 制台	vitd
 制命	vimk2
 制坯	vipi
-制备	vibw2
+制备	vibw
 制宪	vixm2
 制导	vidc2
 制币	vibi2
@@ -52836,7 +52816,7 @@ sort: original
 努着	nuve
 努起	nuqi4
 劫余	jpyu4
-劫制	jpvi4
+劫制	jpvi42
 劫劫	jpjp4
 劫去	jpqu4
 劫囚	jpqq4
@@ -58151,9 +58131,6 @@ sort: original
 只对	vidv6
 只封	vifg6
 只射	viue6
-只射	viye62
-只射	viyi6
-只射	viui62
 只将	vijl6
 只尽	vijb67
 只差	vici6
@@ -63528,7 +63505,7 @@ sort: original
 器乐	qile
 器乐	qiyc6
 器乐	qiyt6
-器件	qijm6
+器件	qijm
 器任	qirf6
 器作	qizo6
 器使	qiui6
@@ -64582,7 +64559,7 @@ sort: original
 圆月	yryt6
 圆木	yrmu6
 圆板	yrbj6
-圆柱	yrvu6
+圆柱	yrvu
 圆桶	yrts6
 圆汛	yrxy6
 圆活	yrho63
@@ -64593,7 +64570,7 @@ sort: original
 圆灵	yrlk61
 圆熟	yruu
 圆熟	yruz6
-圆珠	yrvu61
+圆珠	yrvu6
 圆瑛	yryk
 圆畅	yrih65
 圆盘	yrpj6
@@ -72856,13 +72833,13 @@ sort: original
 宠臣	isif
 宠贵	isgv
 宠贶	iskl
-宠辱	isru3
+宠辱	isru37
 宠遇	isyu3
 宠锡	isxi38
 审决	ufjt
 审处	ufiu3
 审官	ufgr3
-审察	ufia33
+审察	ufia3
 审干	ufgj3
 审度	ufdo3
 审度	ufdu3
@@ -73364,7 +73341,7 @@ sort: original
 容日	rsri
 容止	rsvi3
 容灾	rszd
-容积	rsji3
+容积	rsji
 容膝	rsxi
 容臭	rsiz
 容臭	rsxq
@@ -74757,7 +74734,6 @@ sort: original
 小住	xnvu
 小体	xnti9
 小余	xnyu98
-小使	xnui9
 小修	xnxq
 小倩	xnqk9
 小倩	xnqm9
@@ -74963,7 +74939,7 @@ sort: original
 小方	xnfh90
 小族	xnzu90
 小旦	xndj9
-小时	xnui96
+小时	xnui9
 小昊	xnhc96
 小明	xnmk96
 小星	xnxk96
@@ -78162,7 +78138,7 @@ sort: original
 常拨	ihbo
 常指	ihvi95
 常播	ihbo9
-常数	ihuu9
+常数	ihuu
 常日	ihri
 常时	ihui96
 常昊	ihhc9
@@ -84852,7 +84828,7 @@ sort: original
 愧领	kvlk
 愿与	yryu72
 愿为	yrww73
-愿力	yrli74
+愿力	yrli7
 愿心	yrxb73
 愿景	yrjk7
 愿朴	yrpn
@@ -86918,7 +86894,7 @@ sort: original
 执壶	vihu5
 执委	viww5
 执守	viuz5
-执导	vidc5
+执导	vidc57
 执引	viyb5
 执役	viyi52
 执徐	vixu5
@@ -91527,7 +91503,7 @@ sort: original
 接急	jpji52
 接战	jpvj5
 接手	jpuz5
-接扣	jpkz55
+接扣	jpkz5
 接拍	jppd5
 接掌	jpvh5
 接接	jpjp55
@@ -95846,7 +95822,7 @@ sort: original
 方型	fhxk0
 方城	fhig0
 方域	fhyu04
-方士	fhui04
+方士	fhui0
 方壶	fhhu0
 方夏	fhxx0
 方天	fhtm
@@ -100935,7 +100911,7 @@ sort: original
 极易	jiyi46
 极昼	jivz47
 极权	jiqr44
-极板	jibj44
+极板	jibj
 极核	jihe44
 极核	jihu44
 极点	jidm42
@@ -103423,7 +103399,7 @@ sort: original
 模压	muya4
 模子	mozi4
 模子	muzi41
-模形	moxk41
+模形	moxk4
 模形	muxk41
 模态	motd4
 模态	mutd
@@ -110207,7 +110183,6 @@ sort: original
 温中	wfvs3
 温乎	wfhu3
 温书	wfuu3
-温体	wfti32
 温侯	wfhz3
 温克	wfke3
 温卷	wfjr3
@@ -123456,7 +123431,7 @@ sort: original
 稽留	jilq27
 稽疑	jini
 稽疑	jiyi22
-稽程	jiig2
+稽程	jiig22
 稽考	jikc2
 稽迟	jiii23
 稽颡	jish
@@ -127526,7 +127501,7 @@ sort: original
 结印	jpyb2
 结友	jpyz24
 结发	jpfa2
-结口	jpkz2
+结口	jpkz26
 结喉	jphz2
 结在	jpzd2
 结块	jpkk2
@@ -140997,10 +140972,8 @@ sort: original
 识荆	vijk3
 识蕴	uiyy3
 识蕴	viyy
-识见	uijm3
-识见	vixm37
+识见	uijm37
 识认	uirf33
-识认	virf33
 识记	uiji33
 识记	viji33
 识趣	uiqu34
@@ -150485,7 +150458,7 @@ sort: original
 郑澜	vglj
 郑燮	vgxp8
 郑玄	vgxr8
-郑码	vgma8
+郑码	vgma
 郑笺	vgjm8
 郑经	vgjk8
 郑虔	vgqm8
@@ -154973,7 +154946,7 @@ sort: original
 阴到	ybdc71
 阴功	ybgs7
 阴占	ybvj
-阴司	ybsi71
+阴司	ybsi7
 阴哂	ybuf7
 阴地	ybdi7
 阴声	ybug7
@@ -162657,7 +162630,7 @@ sort: original
 齐耳	qier01
 齐聚	qiju0
 齐肃	qisu05
-齐肩	qijm0
+齐肩	qijm03
 齐腰	qiyc0
 齐行	qihg0
 齐行	qihh0
