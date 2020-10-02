@@ -2881,8 +2881,7 @@ sort: original
 大绿	dalu
 打雷	dalw
 大楼	dalz
-达摩	dama
-大妈	dama4
+大妈	dama
 大卖	damd
 大门	damf
 大米	dami
@@ -4209,7 +4208,7 @@ sort: original
 躲开	dokd
 多快	dokk
 多款	dokr
-多空	doks
+多空	doks2
 多亏	dokv
 堕落	dola
 堕落	dolc
@@ -4259,8 +4258,8 @@ sort: original
 多心	doxb
 多行	doxg
 多行	doxh
-多行	doxk
-惰性	doxk9
+多行	doxk2
+惰性	doxk
 多想	doxl
 多见	doxm
 多谢	doxp
@@ -5171,7 +5170,6 @@ sort: original
 发烧	fauc
 发射	faue
 发生	faug
-发射	faui
 发誓	faui2
 罚单	fauj
 法术	fauu
@@ -9208,7 +9206,7 @@ sort: original
 汇兑	hvdv
 挥发	hvfa
 汇丰	hvfg
-回访	hvfh
+回访	hvfh6
 回返	hvfj
 恢复	hvfu
 会费	hvfw
@@ -10071,7 +10069,7 @@ sort: original
 沉船	ifir
 沉重	ifis
 沉浸	ifjb
-趁机	ifji
+趁机	ifji4
 沉静	ifjk
 陈旧	ifjq
 晨会	ifkk
@@ -15444,8 +15442,7 @@ sort: original
 硫黄	lqhl
 六朝	lqic
 流程	lqig
-流淌	lqih
-流畅	lqih3
+流畅	lqih
 流产	lqij
 流传	lqir
 流出	lqiu
@@ -19977,8 +19974,7 @@ sort: original
 劝解	qrjp
 劝酒	qrjq
 全角	qrjt
-权且	qrju
-全局	qrju8
+全局	qrju
 全家	qrjx
 全军	qrjy
 全会	qrkk
@@ -23886,8 +23882,8 @@ sort: original
 上周	uhvz
 上文	uhwf
 上网	uhwh
-商务	uhwu
-上午	uhwu2
+商务	uhwu0
+上午	uhwu
 尚未	uhww
 伤心	uhxb
 赏析	uhxi
@@ -26499,7 +26495,7 @@ sort: original
 中期	vsji5
 中奖	vsjl
 重建	vsjm
-中间	vsjm5
+中间	vsjm
 中介	vsjp
 终究	vsjq
 重聚	vsju
@@ -28811,7 +28807,7 @@ sort: original
 小偷	xntz
 校舍	xnue
 笑声	xnug
-消失	xnui
+消失	xnui3
 小山	xnuj
 效率	xnuk
 小说	xnuo
@@ -31610,7 +31606,7 @@ sort: original
 有仇	yzqq
 有权	yzqr
 有趣	yzqu
-诱人	yzrf
+诱人	yzrf3
 悠然	yzrj
 犹如	yzru
 有色	yzse
@@ -34339,7 +34335,7 @@ sort: original
 上就	uhjq2
 上屈	uhqu27
 上届	uhjp2
-上屋	uhwu27
+上屋	uhwu2
 上岛	uhdc2
 上峰	uhfg2
 上工	uhgs21
@@ -36366,7 +36362,7 @@ sort: original
 中地	vsdi54
 中圻	vsqi54
 中圻	vsyb54
-中坚	vsjm52
+中坚	vsjm5
 中坜	vsli54
 中型	vsxk51
 中埔	vsbu5
@@ -46631,7 +46627,6 @@ sort: original
 全资	qrzi8
 全躯	qrqu82
 全车	qrie
-全车	qrju84
 全轮	qrly
 全过	qrgo8
 全镇	qrvf8
@@ -63988,7 +63983,7 @@ sort: original
 回描	hvmn
 回援	hvyr6
 回改	hvgd6
-回放	hvfh6
+回放	hvfh
 回教	hvjn64
 回文	hvwf6
 回斡	hvwo
@@ -67073,7 +67068,7 @@ sort: original
 多婪	dolj
 多嫌	doxm2
 多子	dozi21
-多孔	doks2
+多孔	doks
 多字	dozi23
 多守	douz23
 多定	dodk
@@ -68634,7 +68629,7 @@ sort: original
 大马	ddma47
 大驾	dajx44
 大驾	ddjx44
-大骂	dama46
+大骂	dama4
 大骂	ddma46
 大骇	dahd47
 大骇	ddhd47
@@ -74939,7 +74934,7 @@ sort: original
 小方	xnfh90
 小族	xnzu90
 小旦	xndj9
-小时	xnui9
+小时	xnui
 小昊	xnhc96
 小明	xnmk96
 小星	xnxk96
@@ -93086,7 +93081,6 @@ sort: original
 撒水	sauv5
 撒溺	sani
 撒溺	sann5
-撒漫	samj
 撒然	sarj
 撒盐	sayj
 撒督	sadu
@@ -93100,7 +93094,6 @@ sort: original
 撒落	salc5
 撒落	salo5
 撒赖	sald5
-撒镘	samj5
 撒门	samf
 撒鞋	saxp
 撒顽	sawj
@@ -98706,7 +98699,7 @@ sort: original
 有了	yzln
 有云	yzyy4
 有产	yzij
-有人	yzrf48
+有人	yzrf
 有什	yzuf42
 有什	yzui42
 有仆	yzpu
@@ -106262,7 +106255,7 @@ sort: original
 沉疴	ifke
 沉痼	ifgu
 沉眠	ifmm3
-沉积	ifji32
+沉积	ifji
 沉箱	ifxl
 沉绵	ifmm32
 沉缓	ifhr3
@@ -107153,11 +107146,11 @@ sort: original
 法属	favu3
 法岸	faan3
 法币	fabi3
-法师	faui3
+法师	faui
 法帖	fatp3
 法库	faku
 法座	fazo30
-法式	faui34
+法式	faui3
 法徒	fatu3
 法念	fanm3
 法性	faxk3
@@ -108204,7 +108197,7 @@ sort: original
 流外	lqwd
 流好	lqhc3
 流妓	lqji3
-流娼	lqih34
+流娼	lqih3
 流子	lqzi3
 流完	lqwj33
 流宕	lqdh
@@ -110308,7 +110301,7 @@ sort: original
 游乡	yzxl32
 游了	yzle3
 游了	yzln31
-游人	yzrf3
+游人	yzrf38
 游仙	yzxm3
 游仪	yzyi32
 游伴	yzbj3
@@ -123107,7 +123100,6 @@ sort: original
 称善	iguj2
 称多	ifdo
 称多	igdo2
-称奇	ifji24
 称奇	igqi24
 称庆	ifqk
 称庆	igqk2
@@ -124481,7 +124473,7 @@ sort: original
 笔心	bixb8
 笔性	bixk8
 笔意	biyi8
-笔战	bivj
+笔战	bivj8
 笔据	biju8
 笔描	bimn
 笔插	biia
@@ -135154,7 +135146,7 @@ sort: original
 萨摩	sama
 萨摩	samo
 萨斯	sasi4
-萨满	samj4
+萨满	samj
 萨特	sate
 萨菲	safw
 萨蒂	sadi4

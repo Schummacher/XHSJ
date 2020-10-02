@@ -2713,9 +2713,9 @@ sort: original
 社保卡	ubq32
 十八岁	ubs
 双胞胎	ubt
-傻不傻	ubu
+傻不傻	ubu2
 时不时	ubu6
-是不是	ubu61
+是不是	ubu
 说不准	ubv
 睡不着	ubv6
 说不完	ubw
@@ -2896,7 +2896,7 @@ sort: original
 双引号	uyh
 单引号	uyh8
 是一种	uyi
-商业街	uyj
+商业街	uyj0
 收音机	uyj2
 试用期	uyj3
 失业率	uyl
@@ -2908,8 +2908,8 @@ sort: original
 啥意思	uys6
 示意图	uyt
 收银台	uyt2
-失业率	uyu
-收益率	uyu2
+失业率	uyu2
+收益率	uyu28
 试一试	uyu3
 说一说	uyu31
 说一声	uyu314
@@ -5146,7 +5146,7 @@ sort: original
 上下床	uxi
 上下游	uxy2
 上下级	uxj2
-上不上	ubu2
+上不上	ubu21
 上不了	ubl21
 上不来	ubl215
 上不起	ubq2
@@ -20897,7 +20897,6 @@ sort: original
 商洛市	ulu0
 商用品	uyp07
 商用车	uyi0
-商用车	uyj0
 商纣王	uvw0
 商船队	uid0
 商都县	udx0
@@ -26248,7 +26247,7 @@ sort: original
 实验区	uyq3
 实验品	uyp3
 实验场	uyi3
-实验室	uyu37
+实验室	uyu
 实验性	uyx379
 实验所	uys3
 实验法	uyf3
@@ -36242,7 +36241,7 @@ sort: original
 收款台	ukt
 收生婆	uup223
 收留所	uls2
-收益税	uyu28
+收益税	uyu282
 收盘价	upj22
 收看者	ukv22
 收票员	upy21
@@ -47789,7 +47788,7 @@ sort: original
 王之涣	wvh13
 王书文	wuw15
 王于真	wyv11
-王云五	wyw1
+王云五	wyw11
 王仙芝	wxv124
 王余鱼	wyy182
 王侯后	whh127
