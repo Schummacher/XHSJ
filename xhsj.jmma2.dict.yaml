@@ -3004,7 +3004,7 @@ sort: original
 到底	dcdi
 导弹	dcdj
 到顶	dcdk
-到点	dcdm
+到点	dcdm12
 导读	dcdu
 导读	dcdz
 刀法	dcfa
@@ -3924,7 +3924,7 @@ sort: original
 电磁	dmci
 点错	dmco
 电大	dmda
-颠倒	dmdc
+颠倒	dmdc4
 电大	dmdd
 电灯	dmdg
 典当	dmdh
@@ -10290,7 +10290,7 @@ sort: original
 城下	igxx
 成因	igyb
 撑腰	igyc
-诚意	igyi
+诚意	igyi3
 盛宴	igyj
 抢眼	igyj5
 成员	igyr
@@ -11559,7 +11559,6 @@ sort: original
 急忙	jimh
 机密	jimi
 几名	jimk
-奇妙	jimn
 寂寞	jimo
 期末	jimo4
 几万	jimo7
@@ -11662,7 +11661,7 @@ sort: original
 极为	jiww
 几位	jiww7
 即席	jixi
-记性	jixk
+记性	jixk3
 迹象	jixl
 吉祥	jixl4
 极限	jixm
@@ -12415,7 +12414,7 @@ sort: original
 街灯	jpdg
 姐弟	jpdi
 界定	jpdk
-节点	jpdm
+节点	jpdm4
 阶段	jpdr
 解冻	jpds
 解读	jpdu
@@ -20974,8 +20973,7 @@ sort: original
 私聊	siln2
 撕裂	silp
 四六	silq
-四六	silu
-思路	silu6
+思路	silu
 思虑	silv
 四轮	sily
 司马	sima
@@ -24488,8 +24486,8 @@ sort: original
 数额	uuee
 书法	uufa
 书房	uufh
-束缚	uufu
-舒服	uufu8
+束缚	uufu5
+舒服	uufu
 书稿	uugc
 数个	uuge
 树根	uugf
@@ -28663,7 +28661,7 @@ sort: original
 现行	xmxg
 现行	xmxh
 纤细	xmxi
-现行	xmxk
+现行	xmxk11
 现象	xmxl
 显现	xmxm
 鲜血	xmxp
@@ -28848,7 +28846,6 @@ sort: original
 校园	xnyr
 效用	xnys
 校阅	xnyt
-校尉	xnyu
 小雨	xnyu9
 小说	xnyv
 校友	xnyz
@@ -29005,7 +29002,7 @@ sort: original
 血债	xpvd
 写着	xpve
 歇着	xpve6
-写真	xpvf
+写真	xpvf3
 血脂	xpvi
 血战	xpvj
 卸妆	xpvl
@@ -29883,7 +29880,7 @@ sort: original
 银色	ybud
 隐身	ybuf
 饮食	ybui
-引述	ybuu
+引述	ybuu1
 饮水	ybuv
 印刷	ybux
 印着	ybvc
@@ -29920,7 +29917,7 @@ sort: original
 阴雨	ybyu
 引诱	ybyz
 隐藏	ybzh
-银子	ybzi
+银子	ybzi8
 淫贼	ybzw
 要隘	ycai
 要案	ycan
@@ -30829,7 +30826,7 @@ sort: original
 迎来	ykld
 赢了	ykle
 硬朗	yklh
-盈利	ykli
+盈利	ykli1
 英灵	yklk
 赢了	ykln
 英烈	yklp
@@ -37964,8 +37961,7 @@ sort: original
 乘了	ugln
 乘云	igyy2
 乘云	ugyy2
-乘以	igyi2
-乘以	ugyi2
+乘以	igyi
 乘传	igir2
 乘传	ugvr2
 乘便	igbm
@@ -40017,7 +40013,7 @@ sort: original
 产米	ijmi
 产粮	ijll0
 产茶	ijia
-产褥	ijru
+产褥	ijru0
 产道	ijdc
 产钳	ijqm0
 产门	ijmf
@@ -63879,7 +63875,7 @@ sort: original
 四谛	sidi6
 四象	sixl62
 四起	siqi64
-四路	silu66
+四路	silu6
 四辆	sill64
 四边	sibm6
 四达	sida63
@@ -64101,13 +64097,13 @@ sort: original
 因国	ybgo6
 因地	ybdi6
 因头	ybtz
-因子	ybzi6
+因子	ybzi
 因年	ybnm
 因应	ybyk6
 因式	ybui64
 因循	ybxy6
 因您	ybnb
-因数	ybuu6
+因数	ybuu
 因日	ybri
 因明	ybmk
 因材	ybcd6
@@ -73594,7 +73590,7 @@ sort: original
 寄交	jijn3
 寄信	jixb3
 寄傲	jiao3
-寄兴	jixk3
+寄兴	jixk39
 寄养	jiyh3
 寄出	jiiu3
 寄到	jidc3
@@ -74216,7 +74212,7 @@ sort: original
 导流	dclq7
 导源	dcyr
 导火	dcho7
-导电	dcdm7
+导电	dcdm
 导盘	dcpj
 导盲	dcmh7
 导纳	dcna7
@@ -74708,7 +74704,7 @@ sort: original
 小了	xnle91
 小了	xnln9
 小二	xner9
-小于	xnyu91
+小于	xnyu
 小云	xnyy
 小五	xnwu9
 小井	xnjk9
@@ -79193,7 +79189,7 @@ sort: original
 应分	ykff
 应到	ykdc
 应制	ykvi0
-应力	ykli04
+应力	ykli
 应加	ykjx0
 应劭	ykuc
 应募	ykmu0
@@ -80462,7 +80458,7 @@ sort: original
 引拉	ybla
 引据	ybju1
 引接	ybjp15
-引数	ybuu1
+引数	ybuu19
 引斗	ybdz1
 引服	ybfu1
 引枕	ybvf1
@@ -100396,7 +100392,7 @@ sort: original
 束线	uuxm5
 束胸	uuxs
 束腰	uuyc5
-束腹	uufu5
+束腹	uufu57
 束薪	uuxb5
 束衣	uuyi50
 束装	uuvl53
@@ -100896,7 +100892,7 @@ sort: original
 极径	jijk42
 极微	jiww42
 极快	jikk4
-极性	jixk49
+极性	jixk
 极恶	jiee41
 极恶	jiwu41
 极愿	jiyr47
@@ -116742,7 +116738,7 @@ sort: original
 电复	dmfu58
 电学	dmxt59
 电宰	dmzd5
-电导	dmdc5
+电导	dmdc
 电帚	dmvz
 电平	dmpk51
 电弧	dmhu51
@@ -123274,7 +123270,7 @@ sort: original
 程朱	igvu2
 程邈	igmn
 程限	igxm27
-程颐	igyi27
+程颐	igyi2
 程颢	ighc26
 稍为	ucww2
 稍侯	uchz2
@@ -127043,7 +127039,7 @@ sort: original
 线外	xmwd2
 线头	xmtz2
 线形	xmxk21
-线性	xmxk29
+线性	xmxk
 线报	xmbc25
 线控	xmks
 线描	xmmn
@@ -133160,7 +133156,7 @@ sort: original
 节物	jpwu4
 节理	jpli41
 节用	jpys4
-节电	jpdm4
+节电	jpdm45
 节略	jplt46
 节病	jpbk40
 节瘤	jplq40
@@ -141304,7 +141300,7 @@ sort: original
 诙啁	hvtz3
 诙诡	hvgv3
 诚品	igpb3
-诚壹	igyi3
+诚壹	igyi34
 诚属	iguu3
 诚属	igvu3
 诚恐	igks31
@@ -142480,7 +142476,7 @@ sort: original
 谐婉	xpwj34
 谐当	xpdh3
 谐戏	xpxi3
-谐振	xpvf3
+谐振	xpvf
 谐波	xpbo3
 谐称	xpif3
 谐称	xpig32
@@ -152969,7 +152965,7 @@ sort: original
 银城	ybig8
 银奖	ybjl83
 银婚	ybhy8
-银字	ybzi8
+银字	ybzi83
 银屑	ybxp87
 银山	ybuj
 银州	ybvz8
