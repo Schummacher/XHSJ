@@ -4666,8 +4666,7 @@ sort: original
 追偿	dvih
 队长	dvih7
 对冲	dvis
-追击	dvji
-堆积	dvji4
+堆积	dvji
 兑奖	dvjl
 追缴	dvjn
 对焦	dvjn7
@@ -10015,7 +10014,7 @@ sort: original
 车棚	iepg
 扯皮	iepi
 扯平	iepk
-车票	iepn
+车���	iepn
 车钱	ieqm
 车速	iesu
 撤诉	iesu5
@@ -11685,8 +11684,8 @@ sort: original
 记忆	jiyi3
 机缘	jiyr
 急用	jiys
-给予	jiyu
-觊觎	jiyu2
+给予	jiyu2
+觊觎	jiyu28
 机遇	jiyu4
 其余	jiyu48
 既有	jiyz
@@ -12352,7 +12351,6 @@ sort: original
 交战	jnvj
 焦灼	jnvo
 较重	jnvs
-角逐	jnvu
 教主	jnvu4
 校准	jnvy
 郊外	jnwd
@@ -24205,7 +24203,6 @@ sort: original
 单传	ujir8
 删除	ujiu
 单纯	ujiy
-禅机	ujji
 单机	ujji8
 山景	ujjk
 删减	ujjm
@@ -25391,7 +25388,7 @@ sort: original
 针刺	vfci
 真惨	vfcj
 真的	vfde
-震荡	vfdh
+震荡	vfdh1
 阵地	vfdi
 镇定	vfdk
 真多	vfdo
@@ -26492,7 +26489,6 @@ sort: original
 中级	vsji
 中期	vsji5
 中奖	vsjl
-重建	vsjm
 中间	vsjm
 中介	vsjp
 终究	vsjq
@@ -27656,7 +27652,7 @@ sort: original
 无缘	wuyr
 无用	wuys
 五月	wuyt
-无语	wuyu
+无语	wuyu1
 乌云	wuyy
 无忧	wuyz
 五脏	wuzh
@@ -30051,7 +30047,7 @@ sort: original
 药丸	ycwj
 药物	ycwu
 约为	ycww
-腰围	ycww7
+��围	ycww7
 侥幸	ycxk
 药性	ycxk4
 要想	ycxl
@@ -39437,7 +39433,7 @@ sort: original
 五伯	wubd1
 五伯	wubo
 五位	wuww1
-五余	wuyu1
+五余	wuyu18
 五保	wubc1
 五倍	wubw
 五元	wuyr1
@@ -40731,7 +40727,7 @@ sort: original
 仔鱼	zdyu2
 仔鱼	ziyu2
 仔鸡	zdji2
-仔鸡	ziji2
+仔鸡	ziji27
 仕女	uinv2
 仕官	uigr2
 仕宦	uihr2
@@ -42694,7 +42690,7 @@ sort: original
 住进	vujb
 住闲	vuxm2
 佐书	zouu2
-佐使	zoui
+佐使	zoui22
 佐助	zovu2
 佐命	zomk
 佐政	zovg2
@@ -44383,7 +44379,7 @@ sort: original
 俱碎	jusv
 俱起	juqi2
 俳优	pdyz
-俳体	pdti
+俳��	pdti
 俳倡	pdih2
 俳句	pdju2
 俳笑	pdxn
@@ -49136,7 +49132,7 @@ sort: original
 决无	jtwu3
 决明	jtmk
 决死	jtsi
-决烈	jtlp3
+���烈	jtlp3
 决狱	jtyu3
 决疑	jtni
 决疑	jtyi32
@@ -62849,7 +62845,7 @@ sort: original
 啼哭	tiku6
 啼声	tiug6
 啼明	timk6
-啼珠	tivu
+啼珠	tivu61
 啼痕	tihf
 啼笑	tixn6
 啼鹃	tijr
@@ -63362,7 +63358,7 @@ sort: original
 嘉纳	jxna42
 嘉耦	jxou4
 嘉肴	jxyc44
-嘉荫	jxyb44
+嘉���	jxyb44
 嘉蔬	jxuu44
 嘉言	jxyj40
 嘉评	jxpk43
@@ -65796,7 +65792,7 @@ sort: original
 培植	pwvi4
 培补	pwbu
 培风	pwfg
-基于	jiyu41
+基于	jiyu
 基价	jijx4
 基体	jiti4
 基团	jitr4
@@ -65917,7 +65913,7 @@ sort: original
 堆过	dvgo
 堆里	dvli4
 堆金	dvjb
-堆集	dvji42
+堆集	dvji4
 堆鸦	dvya
 堇堇	jbjb4
 堇色	jbse4
@@ -68071,7 +68067,7 @@ sort: original
 大棋	ddqi44
 大棒	dabh4
 大棒	ddbh4
-大棚	dapg44
+大��	dapg44
 大棚	ddpg44
 大棵	dake4
 大棵	ddke44
@@ -78118,7 +78114,7 @@ sort: original
 常川	ihir9
 常州	ihvz
 常度	ihdo9
-常度	ihdu
+常度	ihdu9
 常建	ihjm9
 常开	ihkd9
 常式	ihui94
@@ -84844,7 +84840,7 @@ sort: original
 慈帏	ciww84
 慈幼	ciyz8
 慈心	cixb8
-慈悯	cimb
+慈悯	cimb8
 慈惠	cihv8
 慈晖	cihv86
 慈济	ciji8
@@ -86937,7 +86933,7 @@ sort: original
 扫到	scdc
 扫去	scqu
 扫听	sctk
-扫坟	scff
+��坟	scff
 扫尘	scif
 扫拂	scfu
 扫掉	scdn
@@ -87671,7 +87667,7 @@ sort: original
 抖搜	dzsz5
 抖气	dzqi5
 抖漏	dzlz5
-抖灰	dzhv
+抖灰	dzhv5
 抖然	dzrj5
 抖缩	dzso
 抖翻	dzfj5
@@ -90544,7 +90540,7 @@ sort: original
 振翅	vfii
 振翮	vfhe
 振翼	vfyi
-振荡	vfdh5
+振荡	vfdh
 振落	vfla
 振落	vflc
 振落	vflo
@@ -101749,8 +101745,7 @@ sort: original
 栅条	ujtn4
 栅条	vatn4
 栅极	ceji4
-栅极	ujji4
-栅极	vaji44
+栅极	ujji
 栅篱	celi4
 栅篱	ujli4
 栅篱	vali48
@@ -114194,7 +114189,7 @@ sort: original
 物议	wuyi23
 物论	wuly2
 物证	wuvg23
-物语	wuyu23
+物语	wuyu
 物象	wuxl22
 物镜	wujk28
 牯岭	gulk2
@@ -115209,7 +115204,7 @@ sort: original
 玉泉	yuqr1
 玉浆	yujl13
 玉海	yuhd1
-玉液	yuye13
+���液	yuye13
 玉清	yuqk13
 玉溪	yuxi1
 玉漏	yulz13
@@ -124566,7 +124561,7 @@ sort: original
 符节	fujp8
 符记	fuji83
 符谶	fuif8
-符采	fucd8
+��采	fucd8
 符验	fuyj87
 笨人	bfrf8
 笨伯	bfbd
@@ -131537,7 +131532,7 @@ sort: original
 脚席	jnxi7
 脚底	jndi7
 脚店	jndm7
-脚形	jnxk71
+脚形	jnxk7
 脚心	jnxb7
 脚户	jnhu7
 脚手	jnuz7
@@ -131546,7 +131541,7 @@ sort: original
 脚板	jnbj74
 脚架	jnjx74
 脚气	jnqi78
-脚注	jnvu7
+脚注	jnvu
 脚灯	jndg7
 脚炉	jnlu7
 脚炼	jnlm7
@@ -131676,7 +131671,7 @@ sort: original
 脱误	towu
 脱货	toho
 脱起	toqi74
-脱辐	tofu7
+脱辐	tofu74
 脱过	togo7
 脱闷	tomf
 脱队	todv
@@ -135447,7 +135442,6 @@ sort: original
 著书	vuuu45
 著录	volu4
 著录	vulu41
-著有	voyz
 著有	vuyz44
 著绩	voji4
 著绩	vuji4
@@ -138632,7 +138626,7 @@ sort: original
 被选	pixr3
 被逮	bwdd33
 被逮	pidd33
-被逼	bwbi3
+���逼	bwbi3
 被逼	pibi3
 被酒	bwjq3
 被酒	pijq3
@@ -144732,7 +144726,7 @@ sort: original
 趋缓	quhr4
 趋舍	quue4
 趋走	quzz4
-趋赴	qufu4
+趋赴	qufu44
 趋趋	ququ44
 趋跄	quql4
 趋避	qubi4
@@ -157033,7 +157027,7 @@ sort: original
 震垮	vfkx
 震天	vftm1
 震央	vfyh1
-震宕	vfdh1
+震宕	vfdh13
 震幅	vffu14
 震度	vfdo1
 震度	vfdu
@@ -157282,7 +157276,7 @@ sort: original
 霹空	piks1
 霹诬	piwu1
 霹雷	pilw1
-霾晦	mdhv16
+霾���	mdhv16
 青丝	qksi5
 青丹	qkdj5
 青云	qkyy5
@@ -161934,7 +161928,7 @@ sort: original
 麻类	malw0
 麻糊	mahu0
 麻絮	maxu
-麻纸	mavi
+麻���	mavi
 麻纺	mafh0
 麻织	mavi0
 麻绳	maug02
