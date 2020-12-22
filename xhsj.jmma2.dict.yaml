@@ -992,7 +992,7 @@ sort: original
 逼真	bivf
 必争	bivg
 臂章	bivh
-壁纸	bivi
+壁纸	bivi7
 笔直	bivi8
 比重	bivs
 秘闻	biwf
@@ -3860,7 +3860,7 @@ sort: original
 定居	dkju
 定价	dkjx
 定会	dkkk
-定力	dkli
+定力	dkli34
 定量	dkll
 定律	dklv
 定论	dkly
@@ -3947,9 +3947,9 @@ sort: original
 电汇	dmhv
 电话	dmhx
 电车	dmie
-电厂	dmih
+电厂	dmih5
 电池	dmii
-点击	dmji
+点击	dmji2
 电竞	dmjk
 垫脚	dmjn
 电解	dmjp
@@ -4290,8 +4290,8 @@ sort: original
 跌幅	dpfu
 叠成	dpig
 跌跤	dpjn
-跌价	dpjx
-叠加	dpjx7
+跌价	dpj6
+叠加	dpjx
 跌落	dpla
 跌落	dplc
 跌了	dple
@@ -7484,7 +7484,6 @@ sort: original
 鬼扯	gvie
 规程	gvig
 贵重	gvis
-归期	gvji
 诡计	gvji3
 轨迹	gvji4
 归降	gvjl
@@ -8690,7 +8689,7 @@ sort: original
 祸患	hohr3
 火红	hohs
 火狐	hohu
-火花	hohx
+火花	hohx9
 火候	hohz
 火柴	hoid
 火车	hoie
@@ -8770,8 +8769,8 @@ sort: original
 和顺	houy
 祸首	houz
 活着	hovc
-活着	hove
-或者	hove5
+活着	hove3
+或者	hove
 获知	hovi
 活捉	hovo
 火种	hovs
@@ -8831,9 +8830,7 @@ sort: original
 还好	hrhc
 缓和	hrhe
 还行	hrhg
-换行	hrhg5
-还行	hrhh
-换行	hrhh5
+换行	hrhh
 还行	hrhk
 换行	hrhk5
 缓和	hrho
@@ -10365,7 +10362,7 @@ sort: original
 长廊	ihlh
 厂里	ihli
 常理	ihli9
-敞亮	ihll
+敞亮	ihll9
 长毛	ihmc
 偿命	ihmk
 场面	ihmm
@@ -10379,7 +10376,7 @@ sort: original
 唱片	ihpm6
 唱票	ihpn
 长青	ihqk
-唱腔	ihql
+唱腔	ihql6
 长拳	ihqr
 常去	ihqu
 长裙	ihqy
@@ -11078,8 +11075,8 @@ sort: original
 初一	iuyi
 出演	iuyj
 出院	iuyr
-出于	iuyu
-处于	iuyu2
+出于	iuyu21
+处于	iuyu
 出游	iuyz
 处在	iuzd
 储藏	iuzh
@@ -11867,7 +11864,6 @@ sort: original
 精英	jkyk9
 警员	jkyr4
 鲸鱼	jkyu
-靓仔	jkzd
 净增	jkzg
 镜子	jkzi
 静坐	jkzo
@@ -11880,8 +11876,7 @@ sort: original
 强大	jlda
 强盗	jldc
 降到	jldc7
-强敌	jldi
-降低	jldi7
+降低	jldi
 强调	jldn
 强度	jldo
 江东	jlds
@@ -11900,8 +11895,7 @@ sort: original
 强盛	jlig
 奖惩	jlig3
 僵持	jlii
-强劲	jljb
-将近	jljb3
+将近	jljb
 奖金	jljb38
 将其	jlji
 降级	jlji7
@@ -15152,8 +15146,7 @@ sort: original
 两眼	llyj
 两用	llys
 粮油	llyz
-靓仔	llzi
-量子	llzi6
+量子	llzi
 恋爱	lmai
 联保	lmbc
 联邦	lmbh
@@ -15255,7 +15248,7 @@ sort: original
 连续	lmxu
 联姻	lmyb
 连夜	lmye
-涟漪	lmyi
+涟漪	lmyi3
 联营	lmyk
 炼狱	lmyu
 联运	lmyy
@@ -15507,7 +15500,7 @@ sort: original
 柳絮	lqxu
 陆续	lqxu7
 留下	lqxx
-柳腰	lqyc
+柳腰	lqyc4
 柳叶	lqye
 留洋	lqyh
 留意	lqyi
@@ -18150,7 +18143,7 @@ sort: original
 炮口	pckz
 跑来	pcld
 跑了	pcle
-抛离	pcli
+抛离	pcli5
 跑了	pcln
 跑路	pclu
 跑马	pcma
@@ -25510,7 +25503,7 @@ sort: original
 征得	vgde
 正当	vgdh
 征订	vgdk
-整点	vgdm
+整点	vgdm5
 征调	vgdn
 争夺	vgdo
 争端	vgdr
@@ -25703,7 +25696,7 @@ sort: original
 蟑螂	vhlh5
 张力	vhli
 账龄	vhlk
-丈量	vhll
+丈量	vhll5
 涨了	vhln
 张罗	vhlo
 长毛	vhmc
@@ -25869,7 +25862,7 @@ sort: original
 治疗	viln
 直落	vilo
 之列	vilp
-滞留	vilq
+滞留	vilq3
 之路	vilu
 直率	vilv
 之类	vilw
@@ -26020,7 +26013,7 @@ sort: original
 战备	vjbw
 斩仓	vjch
 栈道	vjdc
-占地	vjdi
+占地	vjdi2
 站点	vjdm
 斩断	vjdr
 颤动	vjds
@@ -26561,8 +26554,7 @@ sort: original
 种种	vsvs
 重重	vsvs2
 中外	vswd
-重温	vswf
-中文	vswf5
+中文	vswf
 中午	vswu
 重围	vsww
 中尉	vsww5
@@ -27523,7 +27515,6 @@ sort: original
 误传	wuir
 物种	wuis
 误触	wuiu
-恶疾	wuji
 无极	wuji1
 武警	wujk
 武将	wujl
@@ -28276,8 +28267,8 @@ sort: original
 行政	xkvg
 行长	xkvh
 省长	xkvh9
-兴致	xkvi
-性质	xkvi9
+兴致	xkvi9
+性质	xkvi
 形状	xkvl
 惺忪	xkvs
 行文	xkwf
@@ -28394,7 +28385,7 @@ sort: original
 降落	xllc7
 向来	xlld
 享乐	xlle
-响亮	xlll
+响亮	xlll6
 项链	xllm
 相连	xllm4
 香料	xlln
@@ -30525,7 +30516,6 @@ sort: original
 一阵	yivf
 议政	yivg
 一张	yivh
-意识	yivi
 意志	yivi0
 一致	yivi1
 一直	yivi14
@@ -31549,7 +31539,6 @@ sort: original
 幼虫	yzis
 有仇	yziz
 有劲	yzjb
-尤其	yzji
 邮寄	yzji5
 幽静	yzjk
 有劲	yzjk4
@@ -33998,7 +33987,7 @@ sort: original
 三年	sjnm
 三废	sjfw
 三度	sjdo1
-三度	sjdu
+三度	sjdu1
 三座	sjzo
 三式	sjui14
 三弦	sjxm
@@ -34071,7 +34060,7 @@ sort: original
 三正	sjvg1
 三步	sjbu12
 三段	sjdr
-三毒	sjdu1
+三毒	sjdu15
 三毛	sjmc
 三民	sjmb
 三水	sjuv
@@ -34096,7 +34085,7 @@ sort: original
 三环	sjhr1
 三班	sjbj11
 三瓣	sjbj10
-三生	sjug12
+三生	sjug125
 三田	sjtm1
 三甲	sjjx16
 三界	sjjp16
@@ -37400,7 +37389,7 @@ sort: original
 之比	vibi3
 之气	viqi38
 之江	vijl
-之流	vilq3
+之流	vilq33
 之游	viyz33
 之源	viyr3
 之滨	vibb
@@ -40837,7 +40826,7 @@ sort: original
 付方	fufh2
 付来	fuld
 付梓	fuzi2
-付点	fudm
+付点	fudm2
 付现	fuxm2
 付畀	fubi2
 付着	fuvc2
@@ -42561,7 +42550,7 @@ sort: original
 但马	djma
 位元	wwyr2
 位准	wwvy2
-位分	wwff
+位分	wwff2
 位列	wwlp2
 位图	wwtu2
 位在	wwzd
@@ -43007,7 +42996,6 @@ sort: original
 佛佗	foto
 佛佗	futo2
 佛典	fodm
-佛典	fudm2
 佛冈	fogh
 佛冈	fugh
 佛刹	foia
@@ -47312,7 +47300,7 @@ sort: original
 六滴	ludi03
 六点	lqdm0
 六点	ludm02
-六爻	lqyc04
+六爻	lqyc
 六爻	luyc0
 六版	lqbj
 六版	lubj
@@ -47992,7 +47980,7 @@ sort: original
 典奥	dmao
 典学	dmxt5
 典守	dmuz
-典常	dmih5
+典常	dmih59
 典座	dmzo5
 典押	dmya5
 典据	dmju5
@@ -49045,7 +49033,7 @@ sort: original
 冲压	isya3
 冲去	isqu3
 冲口	iskz
-冲和	ishe
+重合	ishe
 冲和	isho3
 冲和	ishu
 冲喜	isxi3
@@ -50122,7 +50110,7 @@ sort: original
 出注	iuvu
 出洋	iuyh2
 出活	iuho2
-出浴	iuyu23
+出浴	iuyu2
 出海	iuhd2
 出涕	iuti2
 出清	iuqk
@@ -53891,7 +53879,7 @@ sort: original
 十色	uise4
 十色	uiud4
 十节	uijp44
-十营	uiyk4
+十营	uiyk44
 十行	uihg42
 十行	uihh42
 十行	uixk42
@@ -60400,7 +60388,7 @@ sort: original
 向西	xlxi2
 向触	xliu2
 向迩	xler
-向量	xlll2
+向量	xlll
 向阳	xlyh2
 向隅	xlyu27
 向非	xlfw
@@ -66288,7 +66276,6 @@ sort: original
 壁塑	bisu
 壁宿	bisu7
 壁宿	bixq7
-壁志	bivi7
 壁报	bibc7
 壁挂	bigx
 壁架	bijx
@@ -66345,7 +66332,7 @@ sort: original
 士林	uilb44
 士民	uimb4
 士气	uiqi48
-士类	uilw
+士类	uilw4
 士绅	uiuf4
 壬人	rfrf28
 壬公	rfgs28
@@ -72442,7 +72429,7 @@ sort: original
 官衙	grya32
 官衣	gryi30
 官袍	grpc3
-官规	grgv3
+官规	grgv34
 官计	grji33
 官讳	grhv3
 官词	grci33
@@ -72542,7 +72529,7 @@ sort: original
 定物	dkwu
 定率	dklv3
 定率	dkuk
-定理	dkli31
+定理	dkli
 定瓷	dkci3
 定界	dkjp
 定盟	dkmg
@@ -74568,7 +74555,7 @@ sort: original
 将对	jldv3
 将将	jljl33
 将就	jljq3
-将尽	jljb37
+将尽	jljb3
 将届	jljp37
 将帅	jluk
 将带	jldd
@@ -76794,7 +76781,7 @@ sort: original
 嶷嶷	yiyi22
 嶷然	yirj22
 巅崖	dmya2
-巅疾	dmji2
+巅疾	dmji20
 巅越	dmyt
 巍巍	wwww2
 巍然	wwrj2
@@ -78166,7 +78153,7 @@ sort: original
 常跳	ihtn9
 常轨	ihgv9
 常道	ihdc93
-常量	ihll9
+常量	ihll
 常青	ihqk95
 常项	ihxl91
 常须	ihxu9
@@ -78345,7 +78332,6 @@ sort: original
 干暖	gjnr
 干材	gjcd1
 干果	gjgo1
-干枝	gjvi14
 干梅	gjmw1
 干橹	gjlu1
 干死	gjsi1
@@ -80658,7 +80644,7 @@ sort: original
 张辉	vhhv
 张辽	vhln13
 张过	vhgo13
-张量	vhll16
+张量	vhll
 张钰	vhyu18
 张震	vhvf
 张静	vhjk
@@ -80977,7 +80963,7 @@ sort: original
 强手	jluz1
 强手	qluz1
 强打	jlda1
-强打	qlda
+强打	qlda1
 强抢	jlig1
 强抢	qlql1
 强拉	jlla1
@@ -82082,7 +82068,7 @@ sort: original
 微丝	wwsi2
 微克	wwke24
 微冷	wwlg2
-微分	wwff2
+微分	wwff
 微创	wwil
 微利	wwli22
 微升	wwug2
@@ -85577,7 +85563,7 @@ sort: original
 战史	vjui25
 战团	vjtr2
 战国	vjgo26
-战地	vjdi2
+战地	vjdi
 战士	vjui24
 战守	vjuz2
 战将	vjjl23
@@ -87479,7 +87465,7 @@ sort: original
 抑且	yiju5
 抑且	yiqp5
 抑低	yidi52
-抑制	yivi5
+抑制	yivi
 抑割	yige53
 抑勒	yile5
 抑勒	yilw5
@@ -87491,7 +87477,7 @@ sort: original
 抑损	yisy5
 抑搔	yisc5
 抑是	yiui56
-抑止	yivi52
+抑止	yivi5
 抑素	yisu5
 抑遏	yiee5
 抒写	uuxp53
@@ -90760,7 +90746,6 @@ sort: original
 捞本	lcbf5
 捞梢	lcsc5
 捞梢	lcuc5
-捞着	lcvc
 捞着	lcve5
 捞菱	lclk5
 捞起	lcqi5
@@ -90915,7 +90900,7 @@ sort: original
 换肩	hrjm
 换肾	hruf
 换胎	hrtd5
-换航	hrhh52
+换航	hrhh5
 换节	hrjp54
 换茬	hria5
 换药	hryc54
@@ -96225,7 +96210,7 @@ sort: original
 无有	wuyz14
 无朋	wupg1
 无期	wuqi14
-无机	wuji14
+无机	wuji
 无核	wuhu14
 无梁	wull13
 无棣	wudi14
@@ -98808,7 +98793,7 @@ sort: original
 有朝	yzvc44
 有期	yzji44
 有期	yzqi44
-有机	yzji44
+有机	yzji
 有条	yztn4
 有来	yzld4
 有极	yzji44
@@ -101797,7 +101782,7 @@ sort: original
 标的	bnde4
 标目	bnmu
 标砖	bnvr
-标示	bnui4
+标示	bnui41
 标称	bnif
 标称	bnig
 标程	bnig4
@@ -104053,7 +104038,7 @@ sort: original
 正理	vgli11
 正生	vgug12
 正用	vgys1
-正电	vgdm15
+正电	vgdm
 正盐	vgyj1
 正直	vgvi14
 正眼	vgyj16
@@ -104883,7 +104868,7 @@ sort: original
 比似	bisi2
 比似	biui22
 比你	bini22
-比值	bivi22
+比值	bivi
 比做	bizo2
 比儿	bier
 比先	bixm2
@@ -108057,7 +108042,7 @@ sort: original
 活出	hoiu3
 活分	hoff
 活剧	hoju3
-活化	hohx3
+活化	hohx
 活变	hobm3
 活句	hoju32
 活在	hozd3
@@ -108108,7 +108093,7 @@ sort: original
 活计	hoji33
 活记	hoji33
 活词	hoci
-活话	hohx33
+活话	hohx3
 活读	hodu3
 活读	hodz
 活象	hoxl32
@@ -112423,7 +112408,7 @@ sort: original
 点查	dmia24
 点查	dmva24
 点样	dmyh
-点核	dmhe
+点核	dmhe2
 点核	dmhu2
 点检	dmjm2
 点榜	dmbh2
@@ -116728,7 +116713,7 @@ sort: original
 电告	dmgc5
 电唁	dmyj5
 电唱	dmih56
-电场	dmih54
+电场	dmih
 电壶	dmhu5
 电复	dmfu58
 电学	dmxt59
@@ -116750,7 +116735,7 @@ sort: original
 电机	dmji54
 电杆	dmgj5
 电板	dmbj5
-电极	dmji54
+电极	dmji
 电枢	dmuu5
 电枪	dmql
 电桥	dmqn
@@ -116786,7 +116771,7 @@ sort: original
 电纽	dmnq5
 电花	dmhx54
 电荒	dmhl
-电荷	dmhe5
+电荷	dmhe
 电请	dmqk5
 电贺	dmhe54
 电赴	dmfu54
@@ -119081,7 +119066,7 @@ sort: original
 直板	vibj4
 直根	vigf44
 直沽	vigu43
-直流	vilq43
+直流	vilq
 直溜	vilq43
 直球	viqq4
 直登	vidg4
@@ -123553,7 +123538,6 @@ sort: original
 穹谷	qsgu
 空上	ksuh
 空下	ksxx3
-空个	ksge3
 空乏	ksfa
 空乘	ksig
 空乘	ksug
@@ -129790,7 +129774,7 @@ sort: original
 老账	lcvh47
 老货	lcho4
 老贼	lczw
-老赵	lcvc4
+老赵	lcvc
 老赶	lcgj44
 老趼	lcjm46
 老路	lclu46
@@ -130386,7 +130370,7 @@ sort: original
 联课	lmke
 联调	lmdn
 联调	lmtn1
-联谊	lmyi1
+联谊	lmyi
 联购	lmgz
 联贯	lmgr1
 联贷	lmdd12
@@ -131339,7 +131323,7 @@ sort: original
 能活	ngho
 能演	ngyj
 能玩	ngwj
-能留	nglq
+能留	nglq2
 能看	ngkj
 能级	ngji
 能结	ngjp22
@@ -133006,7 +132990,6 @@ sort: original
 艳妆	yjvl5
 艳姿	yjzi5
 艳媚	yjmw54
-艳射	yjue
 艳射	yjye52
 艳射	yjyi52
 艳射	yjui52
@@ -133121,7 +133104,7 @@ sort: original
 节女	jpnv
 节妇	jpfu44
 节子	jpzi41
-节孔	jpks
+节孔	jpks4
 节孝	jpxn4
 节宣	jpxr4
 节导	jpdc47
@@ -135284,7 +135267,6 @@ sort: original
 落炕	lckh
 落炕	lokh
 落照	lavc4
-落照	lcvc46
 落照	lovc4
 落生	laug4
 落生	lcug42
@@ -138001,7 +137983,7 @@ sort: original
 衍传	yjvr
 衍化	yjhx22
 衍变	yjbm2
-衍射	yjue2
+衍射	yjue
 衍射	yjye2
 衍射	yjyi22
 衍射	yjui22
@@ -142792,7 +142774,7 @@ sort: original
 豁拳	hoqr39
 豁朗	holh
 豁着	hovc3
-豁着	hove3
+豁着	hove38
 豁脱	hoto3
 豁荡	hodh
 豁落	hola3
@@ -143079,7 +143061,7 @@ sort: original
 负气	fuqi28
 负水	fuuv21
 负片	fupm
-负电	fudm25
+负电	fudm
 负笈	fuji28
 负箧	fuqp
 负累	fulw2
@@ -148254,7 +148236,6 @@ sort: original
 连寄	lmji33
 连射	lmue3
 连射	lmye32
-连射	lmyi3
 连射	lmui3
 连属	lmuu37
 连属	lmvu37
@@ -149553,7 +149534,7 @@ sort: original
 遍请	bmqk3
 遍身	bmuf3
 遏云	eeyy3
-遏密	eemi
+遏密	eemi3
 遏抑	eeyi3
 遏止	eevi3
 遏阻	eezu3
@@ -157464,9 +157445,9 @@ sort: original
 静水	jkuv51
 静海	jkhd5
 静渊	jkyr53
-静点	jkdm5
+静点	jkdm52
 静物	jkwu5
-静电	jkdm55
+静电	jkdm5
 静穆	jkmu5
 静立	jkli50
 静美	jkmw58
@@ -160589,7 +160570,7 @@ sort: original
 高唐	gcth
 高唤	gchr
 高商	gcuh00
-高四	gcsi0
+高四	gcsi06
 高地	gcdi0
 高坐	gczo08
 高坛	gctj
@@ -160655,7 +160636,7 @@ sort: original
 高教	gcjn
 高敞	gcih0
 高文	gcwf0
-高斯	gcsi04
+高斯	gcsi0
 高新	gcxb00
 高旷	gckl
 高显	gcxm0
@@ -162883,29 +162864,17 @@ sort: original
 龟版	jybj2
 龟版	qqbj
 龟玉	gvyu21
-龟玉	jyyu21
-龟玉	qqyu2
 龟王	gvwh21
-龟王	jywh2
-龟王	qqwh2
 龟甲	gvjx2
-龟甲	jyjx2
-龟甲	qqjx2
 龟策	gvce
 龟策	jyce
 龟策	qqce
 龟筮	gvui2
-龟筮	jyui28
-龟筮	qqui28
 龟纹	gvwf2
 龟纹	jywf2
 龟纹	qqwf22
 龟纽	gvnq
-龟纽	jynq
-龟纽	qqnq
 龟绶	gvuz22
-龟绶	jyuz22
-龟绶	qquz22
 龟肉	gvrz
 龟船	gvir22
 龟行	gvhg

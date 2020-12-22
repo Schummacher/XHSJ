@@ -48,7 +48,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba1234567890"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba1234567890A"
   auto_select: true
   max_code_length: true
 
@@ -72,8 +72,8 @@ custom_phrase:
 reverse_lookup:
   dictionary: stroke
   enable_completion: true
-  prefix: "`"
-  suffix: "'"
+  prefix: ""
+  suffix: ""
   tips: 〔筆畫〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
