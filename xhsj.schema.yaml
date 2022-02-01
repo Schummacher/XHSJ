@@ -1,4 +1,4 @@
-# Rime schema
+# Rime schema settings
 # encoding: utf-8
 
 schema:
@@ -44,23 +44,26 @@ engine:
     - reverse_lookup_translator
     - table_translator
   filters:
-    - simplifier
+    # - simplifier
     - uniquifier
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba1234567890A"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba1234567890QWERTYUIOASDFGHJKLZXCVBNM"
   auto_select: true
-  max_code_length: true
 
 translator:
   dictionary: xhsj
-  enable_charset_filter: false
+  enable_charset_filter: true
   enable_completion: true
   enable_encoder: true
   enable_sentence: false
-  enable_user_dict: false
+  enable_user_dict: true
   encode_commit_history: true
   max_phrase_length: 12
+  # preedit_format:
+  #   - xlit|0123456789|亠一丨丶十扌口乛八小|
+  # comment_format:
+  #   - xlit|0123456789|亠一丨丶十扌口乛八小|
 
 custom_phrase:
   dictionary: ""
@@ -69,25 +72,20 @@ custom_phrase:
   enable_completion: false
   enable_sentence: false
 
-reverse_lookup:
-  dictionary: stroke
-  enable_completion: true
-  prefix: ""
-  suffix: ""
-  tips: 〔筆畫〕
-  preedit_format:
-    - xlit/hspnz/一丨丿丶乙/
-  comment_format:
-    - xform/([nl])v/$1ü/
-
 punctuator:
   import_preset: symbols
-
-key_binder:
-  import_preset: default
 
 recognizer:
   import_preset: default
   patterns:
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     reverse_lookup: "`[a-z]*'?$"
+
+# style:
+#   font_face: "TH-Tshyn-P0"
+#   font_point: 18 #字號
+
+menu:
+  alternative_select_labels: [ 甲, 乙, 丙, 丁, 戊 ]
+  alternative_select_keys: ABCDE #如編碼字符佔用數字鍵則須另設選字鍵
+  # page_size: 5 #選單每䈎顯示個數

@@ -414,7 +414,6 @@ sort: original
 炮火	bcho99
 包换	bchr25
 炮轰	bchs94
-饱和	bchu22
 保护	bchu25
 宝刹	bcia34
 爆炒	bcic99
@@ -3701,7 +3700,6 @@ sort: original
 担当	djdh59
 淡淡	djdj33
 淡定	djdk33
-石雕	djdn17
 单调	djdn83
 丹东	djds74
 单独	djdu84
@@ -4986,7 +4984,6 @@ sort: original
 二代	erdd12
 二等	erdg18
 而定	erdk13
-二度	erdo10
 耳朵	erdo17
 二度	erdu10
 二分	erff18
@@ -7077,7 +7074,6 @@ sort: original
 官宦	grhr33
 关乎	grhu82
 官话	grhx33
-官差	gria38
 观察	gria73
 官差	grid38
 贯彻	grie72
@@ -7845,7 +7841,6 @@ sort: original
 豪绅	hcuf02
 耗神	hcuf53
 毫升	hcug02
-好似	hcui42
 豪爽	hcul04
 好说	hcuo43
 好说	hcut43
@@ -11475,7 +11470,6 @@ sort: original
 肌肤	jifu77
 计费	jifw35
 极高	jigc40
-集合	jige28
 几个	jige78
 奇怪	jigk49
 激光	jigl39
@@ -11629,7 +11623,6 @@ sort: original
 极少	jiuc49
 跻身	jiuf62
 寄生	jiug32
-其实	jiui43
 即使	jiui72
 技术	jiuu54
 积水	jiuv21
@@ -12178,7 +12171,6 @@ sort: original
 脚步	jnbu72
 脚背	jnbw71
 交差	jnca08
-交差	jncd08
 教材	jncd44
 窖藏	jnch34
 交差	jnci08
@@ -12691,7 +12683,7 @@ sort: original
 揪心	jqxb53
 酒席	jqxi30
 救星	jqxk46
-就像	jqxl02
+就像	jqxl027
 酒仙	jqxm32
 九霄	jqxn41
 就绪	jqxu02
@@ -12948,7 +12940,6 @@ sort: original
 锯条	jutn82
 剧团	jutr76
 剧痛	juts70
-车头	jutz43
 惧色	juud92
 车身	juuf42
 车上	juuh42
@@ -16846,7 +16837,6 @@ sort: original
 冒烟	moyj69
 万元	moyr11
 冒用	moys67
-冒雨	moyu61
 墨鱼	moyu62
 灭顶	mpdk11
 灭火	mpho19
@@ -17898,7 +17888,6 @@ sort: original
 那好	nwhc14
 内耗	nwhc45
 内核	nwhe44
-那行	nwhh12
 内行	nwhh42
 内涵	nwhj43
 那还	nwhr13
@@ -19404,7 +19393,6 @@ sort: original
 亲朋	qkpg07
 清屏	qkpk37
 轻便	qkpm42
-亲戚	qkqi05
 亲亲	qkqk00
 亲情	qkqk09
 轻轻	qkqk44
@@ -19490,6 +19478,7 @@ sort: original
 强大	qldd14
 强敌	qldi12
 腔调	qldn73
+强调	qldn13
 抢夺	qldo54
 抢断	qldr52
 强度	qldu10
@@ -21097,7 +21086,6 @@ sort: original
 参考	sjkc24
 散开	sjkd41
 参看	sjkj22
-散会	sjkk48
 散落	sjla44
 散落	sjlc44
 散了	sjle41
@@ -21877,7 +21865,6 @@ sort: original
 体积	tiji22
 体系	tiji22
 体检	tijm24
-体校	tijn24
 提交	tijn50
 题解	tijp62
 提价	tijx52
@@ -23894,7 +23881,6 @@ sort: original
 上校	uhxn24
 上学	uhxt29
 尚需	uhxu91
-商厦	uhxx07
 上下	uhxx21
 上旬	uhxy22
 上瘾	uhyb20
@@ -25127,7 +25113,6 @@ sort: original
 朝纲	vcgh42
 招干	vcgj51
 照管	vcgr68
-朝贡	vcgs41
 招工	vcgs51
 照顾	vcgu67
 兆赫	vche34
@@ -25355,7 +25340,6 @@ sort: original
 折算	vesr58
 折腾	vetg57
 蔗糖	veth49
-着调	vetn83
 折杀	veua54
 着色	veud82
 折射	veue52
@@ -26059,7 +26043,6 @@ sort: original
 战绩	vjji22
 湛江	vjjl33
 战舰	vjjm22
-战车	vjju24
 占据	vjju25
 展开	vjkd71
 展会	vjkk78
@@ -26303,7 +26286,6 @@ sort: original
 专横	vrhg54
 转行	vrhh42
 转行	vrhk42
-传唤	vrhr26
 转换	vrhr45
 传呼	vrhu26
 转回	vrhv46
@@ -27403,7 +27385,6 @@ sort: original
 婉转	wjvr44
 万众	wjvs18
 玩玩	wjwj11
-万恶	wjwu11
 玩物	wjwu12
 玩味	wjww16
 惋惜	wjxi99
@@ -29398,7 +29379,6 @@ sort: original
 续编	xubm22
 虚词	xuci23
 絮叨	xudc46
-虚度	xudo20
 许多	xudo32
 虚度	xudu20
 须发	xufa22
@@ -31916,7 +31896,6 @@ sort: original
 在行	zdxk42
 宰相	zdxl34
 再现	zdxm11
-再见	zdxm17
 在线	zdxm42
 在校	zdxn44
 在学	zdxt49
@@ -35581,7 +35560,7 @@ sort: original
 世主	uivu40
 世交	uijn40
 世亲	uiqb40
-世亲	uiqk40
+事情	uiqk40
 世人	uirf48
 世代	uidd42
 世传	uiir42
@@ -37034,7 +37013,6 @@ sort: original
 主科	vuke02
 主稿	vugc02
 主站	vuvj00
-主簿	vubo08
 主簿	vubu08
 主粮	vull09
 主罚	vufa06
@@ -38802,6 +38780,7 @@ sort: original
 了纳	lnna12
 了结	lejp12
 了结	lnjp12
+了解	lnjp12
 了落	lela14
 了落	lnlc14
 了落	lelo14
@@ -40150,7 +40129,6 @@ sort: original
 亲台	qbtd02
 亲台	qktd02
 亲启	qbqi03
-亲启	qkqi03
 亲夫	qbfu05
 亲夫	qkfu05
 亲姊	qbzi04
@@ -53404,6 +53382,7 @@ sort: original
 北地	bwdi14
 北圻	bwqi14
 北圻	bwyb14
+被迫	bwpo33
 北坡	bwpo14
 北垂	bwiv12
 北城	bwig14
@@ -53644,7 +53623,6 @@ sort: original
 区级	quji72
 区脱	outo77
 区脱	quto77
-区落	oula74
 区落	qulc74
 区落	oulo74
 区落	qula74
@@ -66055,7 +66033,6 @@ sort: original
 塞克	sdke34
 塞克	seke34
 塞入	sdru38
-塞入	seru38
 塞内	sdnw34
 塞内	senw34
 塞到	sddc31
@@ -75550,7 +75527,7 @@ sort: original
 就快	jqkk09
 就念	jqnm08
 就怕	jqpa09
-就想	jqxl04
+就想	jqxl046
 就成	jqig05
 就我	jqwo02
 就戮	jqlu01
@@ -75609,7 +75586,7 @@ sort: original
 就请	jqqk03
 就调	jqdn03
 就调	jqtn03
-就象	jqxl02
+就象	jqxl027
 就走	jqzz04
 就越	jqyt04
 就跑	jqpc06
@@ -80241,7 +80218,6 @@ sort: original
 弄低	nsdi12
 弄倒	lsdc12
 弄倒	nsdc12
-弄僵	lsjl12
 弄僵	nsjl12
 弄兵	lsbk17
 弄兵	nsbk17
@@ -86570,6 +86546,7 @@ sort: original
 打着	dave58
 打睃	daso56
 打睡	dauv56
+打税	dauv52
 打瞎	daxx56
 打瞳	dats56
 打短	dadr58
@@ -92631,7 +92608,6 @@ sort: original
 摄食	npsi58
 摄食	ueui58
 摄食	npyi58
-摄食	uesi58
 摄食	npui58
 摄食	ueyi58
 摄魂	nphy51
@@ -113145,6 +113121,7 @@ sort: original
 煤尘	mwif99
 煤层	mwcg97
 煤屑	mwxp97
+没写	mwxp33
 煤山	mwuj92
 煤带	mwdd94
 煤搭	mwda95
@@ -129127,6 +129104,7 @@ sort: original
 美大	mwda84
 美大	mwdd84
 美姑	mwgu84
+没改	mwgu31
 美姿	mwzi83
 美子	mwzi81
 美官	mwgr83
@@ -131734,7 +131712,6 @@ sort: original
 腈纶	jkgr72
 腈纶	jkly72
 腊八	laba78
-腊八	xiba78
 腊味	laww76
 腊味	xiww76
 腊尽	lajb77
@@ -139754,6 +139731,7 @@ sort: original
 觑糊	quhu29
 觑绝	qujt22
 觑视	quui23
+角度	jndu20
 角伎	jnji22
 角伎	jtqi22
 角儿	jner22
@@ -146427,12 +146405,7 @@ sort: original
 较劲	jnjk41
 较厚	jnhz47
 较场	jnih44
-较差	jnci48
 较差	jnia48
-较差	jnid48
-较差	jnca48
-较差	jnii48
-较差	jncd48
 较常	jnih49
 较慢	jnmj49
 较新	jnxb40
@@ -150865,7 +150838,7 @@ sort: original
 酒食	jqyi38
 酒饭	jqfj32
 酒馔	jqvr32
-酒香	jqxl32
+酒香	jqxl320
 酒驾	jqjx34
 酒鳖	jqbp39
 酒龄	jqlk32
@@ -153802,6 +153775,7 @@ sort: original
 长岭	ihlk42
 长岭	vhlk42
 长崎	ihqi42
+长期	ihqi44
 长崎	vhqi42
 长川	ihir42
 长川	vhir42
@@ -162918,3 +162892,44 @@ sort: original
 龟鼎	gvdk22
 龟龄	gvlk22
 龟龟	gvgv22
+白嫖	bdpn24
+催我	cvwo22
+打把	daba55
+对线	dvxm72
+都会	dzhv48
+饭圈	fjqr26
+跟打	gfda65
+工尺	gsie17
+故事	guui45
+好事	hcui45
+长度	ihdu40
+氪金	kejb88
+列好	lphc14
+录播	lubo25
+萌娘	mgnl44
+萌新	mgxb40
+没事	mwui35
+那种	navs12
+娘炮	nlpc49
+女粉	nvff49
+强大	qlda14
+色卡	seka22
+题注	tivu63
+社死	uesi31
+生草	ugcc24
+时间	uijm63
+实时	uiui36
+这些	vexp32
+知乎	vihu82
+桌游	voyz23
+完事	wjui35
+吴音	wuyb60
+伪娘	wwnl24
+续作	xuzo22
+用下	ysxx71
+自洽	ziqx23
+做事	zoui25
+裸考	lokc34
+线上	xmuh22
+磨皮	mopi04
+究级	jqji32

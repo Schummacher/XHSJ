@@ -1,15 +1,52 @@
+# encoding: utf-8
+
+#
+
+# ---
+# name: "xhsj"
+# version: "0.2"
+# sort: original
+# use_preset_vocabulary: false
+# max_phrase_length: 7
+# min_phrase_weight: 100
+# columns:
+#   - text
+#   - code
+#   - stem
+# encoder:
+#   exclude_patterns:
+#     - '^x.*$'
+#     - '^z.*$'
+#   rules:
+#     - length_equal: 2
+#       formula: "AaAzBaBbBz"
+#     - length_equal: 3
+#       formula: "AaAzBaBzCz"
+#     - length_in_range: [4, 10]
+#       formula: "AaBzCaYzZz"
+#   tail_anchor: "'"
+# ...
+
 ---
 name: xhsj
 version: "Q1"
 sort: original
 import_tables:
-  - xhsj.dj
   - xhsj.ow
-  - xhsj.jmma2
-  - xhsj.jmma3
-  - xhsj.jmma4
-  - xhsj.qrma2
-  - xhsj.qrma3
-  - xhsj.qrma4
+  - xhsj.erma
+  - xhsj.sima
+  - xhsj.sjma
   - xhsj.nhg
+  - xhsj.han
+  - xhsj.eng
+  - xhsj.jap
+  - xhsj.japq
+  - xhsj.fan
+  - xhsj.tib
+  - xhsj.nom
+  # - xhsj.qrma1
+  # - xhsj.qrma2
+  # - xhsj.qrma3
+  # - xhsj.qrma4
+  # - xhsj.qrma5
 ...
