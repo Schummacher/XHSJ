@@ -32,7 +32,6 @@ name: xhsj
 version: "Q1"
 sort: original
 import_tables:
-  - xhsj.ow
   - xhsj.erma
   - xhsj.sima
   - xhsj.sjma
